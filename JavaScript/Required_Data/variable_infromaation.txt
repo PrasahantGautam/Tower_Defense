@@ -1,0 +1,2 @@
+BuildingPlacement = It;s the data where a building or tower can be placed. 
+                    It's has been filtered form the BuildingPlacmentData
